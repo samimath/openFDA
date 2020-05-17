@@ -61,3 +61,10 @@ Based on the `yaml` file provided by openFDA, we can see that these are the attr
 * transmissiondate 
 
 * transmissiondateformat
+
+### Data gathering:
+
+[Here's the script](https://github.com/samimath/openFDA/blob/master/get_raw_data.py) to pull data from the API and returns a flattened dataframe with some additional features. API keys are provided by `openFDA.gov` after submitting a request.
+
+### Data analysis:
+[Here's a jupyter notebook](https://github.com/samimath/openFDA/blob/master/eda.ipynb) which documents some of the exploratory work I've tried for this dataset. 
