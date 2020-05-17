@@ -4,7 +4,7 @@
 This is an exercise of exploratoray analysis using data provided by the [openFDA API](https://open.fda.gov/apis/drug/). Specifically, I'm interesting in the drug event end point where information of an adverse events forproducts such as prescription drugs, OTC medication are submitted.
 
 
-### 1. A bit about the data:
+### A bit about the data:
 
 My first goal is to get a sense of what kind of data we are working with. How do we efficiently gather data? What does the data structure look like? What are some data cleaning and formatting tasks we'll need to do before it is in a workable state? 
 
