@@ -69,12 +69,3 @@ Based on the `yaml` file provided by openFDA, we can see that these are the attr
 ### Data analysis:
 [Here's a jupyter notebook](https://github.com/samimath/openFDA/blob/master/eda.ipynb) which documents some of the exploratory work I've tried for this dataset. 
 
-
-<iframe src="https://github.com/samimath/openFDA/blob/master/drug_netwrok.html"
-    sandbox="allow-same-origin allow-scripts"
-    width="100%"
-    height="500"
-    scrolling="no"
-    seamless="seamless"
-    frameborder="0">
-</iframe>
