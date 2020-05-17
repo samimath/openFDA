@@ -70,10 +70,11 @@ Based on the `yaml` file provided by openFDA, we can see that these are the attr
 [Here's a jupyter notebook](https://github.com/samimath/openFDA/blob/master/eda.ipynb) which documents some of the exploratory work I've tried for this dataset. 
 
 
-<link rel="stylesheet" href="http://cdn.pydata.org/bokeh/release/bokeh-1.4.0.min.css" type="text/css" />
-<script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.4.0.min.js"></script>
-<script type="text/javascript">
-    Bokeh.set_log_level("info");
-</script>
-
-{% include https://github.com/samimath/openFDA/blob/master/drug_netwrok.html %}
+<iframe src="https://github.com/samimath/openFDA/blob/master/drug_netwrok.html"
+    sandbox="allow-same-origin allow-scripts"
+    width="100%"
+    height="500"
+    scrolling="no"
+    seamless="seamless"
+    frameborder="0">
+</iframe>
