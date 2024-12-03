@@ -1,7 +1,7 @@
 # Purpose of the project
 
 
-This is an exercise of exploratoray analysis using data provided by the [openFDA API](https://open.fda.gov/apis/drug/). Specifically, I'm interesting in the drug event end point where information of an adverse events forproducts such as prescription drugs, OTC medication are submitted.
+This is an exercise of exploratoray analysis using data provided by the [openFDA API](https://open.fda.gov/apis/drug/). Specifically, I'm interested in the drug event end point where information of an adverse events for products such as prescription drugs, OTC medication are submitted.
 
 
 ### A bit about the data:
